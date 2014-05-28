@@ -4,9 +4,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
  
-    <com.viewpagerindicator.TabPageIndicator
+    <com.subastas.ui.component.SlidingTabLayout
         android:id="@+id/indicator"
-        android:padding="10dip"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content" />
  
